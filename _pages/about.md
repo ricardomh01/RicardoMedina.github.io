@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/FBBCHILE.png){: .align-right width="200PX"}
+(/images/FBBCHILE.png){: .align-right width="200PX"}
 
 👨🏻‍💻 I'm a Mechatronics Engineer graduate student at the Centro de Enseñanza Técnica Industrial (CETI).
 

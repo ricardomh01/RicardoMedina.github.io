@@ -10,7 +10,9 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/FBBCHILE.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities]
+(/images/FBBCHILE.png){: .align-right width="200PX"}
+
 👨🏻‍💻 I'm a Mechatronics Engineer graduate student at the Centro de Enseñanza Técnica Industrial (CETI).
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!

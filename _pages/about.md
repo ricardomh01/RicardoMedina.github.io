@@ -38,8 +38,7 @@ There I work on dynamic traffic flow forecasting using Graph Neural Networks.
 ## 📚 Teaching and Community Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
 
-![Illustration of combining vision and language modalities](/images/FBBCHILE.png){: .align-right width="50PX"}
-
+![Editing a markdown file for a talk](/images/FBBCHILE.png)
 
 
 

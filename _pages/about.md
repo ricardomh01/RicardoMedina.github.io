@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Ricardo!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,13 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities]
-(/images/FBBCHILE.png){: .align-right width="200PX"}
+![Illustration of combining vision and language modalities](/images/FBBCHILE.png){: .align-right width="200PX"}
 
 👨🏻‍💻 I'm a Mechatronics Engineer graduate student at the Centro de Enseñanza Técnica Industrial (CETI).
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 I consider myself as a passionate engineer with a solid technical background and commercial skills, driving innovation and growth in the technology and telecommunications sector across multiple countries. Committed to developing advanced solutions for technical challenges and expanding business opportunities.
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+📚 I'm currently working in a telecomunications company leading the andean.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 

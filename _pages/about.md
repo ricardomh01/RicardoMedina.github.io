@@ -19,7 +19,7 @@ redirect_from:
 
 👨🏻‍💻I have had the opportunity to work on projects and negotiations with leading operators in South America, such as projects with American Movil,  Millicom, Huawei, ZTE, among others.
 
-👨🏻‍💻 In 2020, in collaboration with my brother, we established a venture named Mr. Clean Shoes, a business dedicated to cleaning and restoring all types of footwear. This experience has provided me with insights into the workings of customer care and service.
+📽️ In 2020, in collaboration with my brother, we established a venture named Mr. Clean Shoes, a business dedicated to cleaning and restoring all types of footwear. This experience has provided me with insights into the workings of customer care and service.
 
 
 
